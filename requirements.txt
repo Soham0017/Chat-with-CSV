@@ -1,0 +1,7 @@
+gradio
+pandas
+matplotlib
+seaborn
+pillow
+pydantic-ai
+
